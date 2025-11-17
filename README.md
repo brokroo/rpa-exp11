@@ -54,3 +54,11 @@ The `Main.xaml` file executes the following steps in order:
 6.  **Run:**
     * Click **Debug (F5)** to run the process and see the execution step-by-step.
     * Click **Run (Ctrl+F6)** to run the process from start to finish.
+
+## WORKFLOW AND OUTPUT:
+
+<img width="1919" height="1079" alt="workflow 1" src="https://github.com/user-attachments/assets/9b7a32b6-195d-4fba-9c96-b4e0a4c34218" />
+<img width="1919" height="1079" alt="workflow 2" src="https://github.com/user-attachments/assets/faa96a0e-92a1-4c4a-8ff6-21ae1545a24c" />
+<img width="1919" height="1079" alt="workflow 3" src="https://github.com/user-attachments/assets/4c441f23-93a9-4ab8-8c19-f2f06188199c" />
+<img width="389" height="138" alt="Output" src="https://github.com/user-attachments/assets/7b4efb77-d1ce-4299-bc8e-7ac6f3acc001" />
+
